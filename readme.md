@@ -21,6 +21,8 @@ Kijken hoe je device heet. > Terminal > ls /dev/tty.*
 Scripts downloaden van GitHub
 	https://github.com/wgroenewold/mute
 
+Line 3 aanpassen aan je device ID
+
 chmod +x op mute.sh anders doetieutniet :)
 
 Script starten in Terminal met
